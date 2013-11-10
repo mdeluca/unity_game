@@ -2,6 +2,7 @@
 
 public var lives : int = 5;
 public var health : int = 25;
+public var damage : int = 45;
 
 function OnTriggerEnter(other: Collider)
 {
