@@ -11,3 +11,8 @@ playerStatus.lives += lives;
 playerStatus.health += health;
 Destroy(gameObject); //destroy gameobject
 }
+
+function awesomePickup
+{
+	//amazing pickup code will go here.
+}
