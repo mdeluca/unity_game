@@ -1,6 +1,6 @@
 #pragma strict
 
-public var lives : int = 5;
+public var lives : int = 20;
 
 function OnTriggerEnter(other: Collider)
 {
